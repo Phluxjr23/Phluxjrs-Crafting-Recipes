@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": "minecraft:magma_block",
+    "b": "minecraft:coal",
+    "c": "minecraft:torch"
+  },
+  "result": {
+    "id": "minecraft:glowstone_dust",
+    "count": 3
+  }
+}

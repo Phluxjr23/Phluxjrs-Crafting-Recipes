@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cad",
+    "c d"
+  ],
+  "key": {
+    "a": "minecraft:ender_eye",
+    "b": "minecraft:emerald",
+    "c": "minecraft:gray_banner",
+    "d": "minecraft:gray_banner"
+  },
+  "result": {
+    "id": "minecraft:elytra",
+    "count": 1
+  }
+}
