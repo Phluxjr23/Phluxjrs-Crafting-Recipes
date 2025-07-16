@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": "minecraft:emerald",
+    "b": "minecraft:ender_eye",
+    "c": "minecraft:gold_nugget",
+    "d": "minecraft:gold_block",
+    "e": "minecraft:nether_star",
+    "f": "minecraft:gold_ingot"
+  },
+  "result": {
+    "id": "minecraft:totem_of_undying",
+    "count": 1
+  }
+}
